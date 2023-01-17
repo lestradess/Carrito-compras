@@ -1,0 +1,2 @@
+# Carrito-compras
+Plantilla para una tienda creada con HTML, CSS y JavaScript. Tiene la funcionalidad de poder crear un carrito de compra donde añadir, quitar y eliminar artículos. Se pueden añadir productos haciendo clic sobre el botón «agregar al carrito», después en el carro de la parte superior de la web, al activarlo, se muestran los productos añadidos, pudiendo eliminarlos uno a uno o vaciar todos los artículos.
